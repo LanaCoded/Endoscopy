@@ -1,0 +1,13 @@
+{
+  "total_records": 14103,
+  "label_counts": {
+    "0": 2464,
+    "1": 11639
+  },
+  "split_counts": {
+    "train": 9871,
+    "val": 2114,
+    "test": 2118
+  },
+  "output_dir": "dataset"
+}
