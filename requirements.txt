@@ -2,3 +2,9 @@ torch
 requests
 PIL
 transformers
+numpy
+pandas 
+seaborn
+matplotlib
+scikit-learn
+opencv-python
