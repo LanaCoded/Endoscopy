@@ -1,4 +1,4 @@
-torch
+tensorflow==2.10.0
 requests
 PIL
 transformers
@@ -9,3 +9,4 @@ matplotlib
 scikit-learn
 opencv-python
 pathlib
+
